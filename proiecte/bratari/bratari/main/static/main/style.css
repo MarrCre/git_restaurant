@@ -1,0 +1,16 @@
+* {
+        text-align: center;
+
+}
+
+h1 {
+    color: aqua;
+}
+
+body {
+    background-color: black;
+    background-image: url('\main\resources\Images\background.jpg');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
